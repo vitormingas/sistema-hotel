@@ -369,7 +369,7 @@ void fazerCheckout(tipoApto matriz[ANDARES][APARTAMENTOS], int andar, int apt) {
 // > Cadastrar Hospede
 void cadastrarHospede(tipoApto matriz[ANDARES][APARTAMENTOS], int andar, int apt){
 	
-	// %[^\n] evita o uso do fclear, porque não sobrecarrega o buffer , faz a leitura até antes do \n
+	// %[^\n] evita o uso do fclear, porque nÃ£o sobrecarrega o buffer , faz a leitura atÃ© antes do \n
 	printf("\n-> Cadastro do apartamento %d, andar %d <-\n", apt, andar);
     printf("Nome do hospede: ");
     scanf(" %[^\n]", matriz[ANDARES - andar][apt - 1].hospede.nome);
