@@ -28,7 +28,7 @@ Simula reservas, check-ins, check-outs, cancelamentos e consulta de informaçõe
 
 ## 🚀 Como rodar
 
-Compile o programa com um compilador C, por exemplo
+Compile o programa com um compilador C.
 
 ## 👥 Equipe
 
