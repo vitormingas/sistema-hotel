@@ -28,17 +28,14 @@ Simula reservas, check-ins, check-outs, cancelamentos e consulta de informaçõe
 
 ## 🚀 Como rodar
 
-```bash
-gcc ILRV-Ativ06-Hotel.c -o hotel
-./hotel
-```
+Compile o programa com um compilador C, por exemplo
 
 ## 👥 Equipe
 
 - Inara Regina de Souza e Silva
 - Liam Vedovato Lopes
 - Rodrigo Ward Leite
-- **Vitor Gabriel de Sales Nicolau (aka mingas)**
+- Vitor Gabriel de Sales Nicolau (me)
 
 📄 **Relatório:** [ILRV-DOC-Hotel.pdf](./ILRV-DOC-Hotel.pdf)
 
