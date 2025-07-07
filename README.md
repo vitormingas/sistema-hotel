@@ -37,7 +37,5 @@ Compile o programa com um compilador C.
 - Rodrigo Ward Leite
 - Vitor Gabriel de Sales Nicolau (me)
 
-📄 **Relatório:** [ILRV-DOC-Hotel.pdf](./ILRV-DOC-Hotel.pdf)
-
 🚩 Projeto acadêmico — LIC 2025.
 
